@@ -5,6 +5,9 @@ It allows you to convert among different currencies from around the world.
 
 The application fetches the latest exchange rates from the ExchangeRate-API and provides a user-friendly interface for currency conversion.
 
+<img src="https://github.com/Wajola55/currency-converter-app/assets/118658753/287a3654-f6de-47e9-bcc3-c1626a44a8fb" width="500"/>
+
+
 ### Features:
 <li>Support for multiple currencies: The application supports multiple currencies from different countries.
 It covers major currencies like USD (United States), EUR (European Union), GBP (United Kingdom), JPY (Japan), AUD (Australia), and many more.
